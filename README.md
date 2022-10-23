@@ -8,15 +8,15 @@
 
 ## Running Code
   - Client
-    `cd client`
-    `npm install`
-    `npm start`
-    localhost:3000 to view the code
+    - `cd client`
+    - `npm install`
+    - `npm start`
+    - localhost:3000 to view the code
 
   - Server
-    `cd server`
-    `npm install`
-    `npm start`
+    - `cd server`
+    - `npm install`
+    - `npm start`
 
 ## API's Usage
 
